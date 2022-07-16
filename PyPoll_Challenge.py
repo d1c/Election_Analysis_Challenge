@@ -1,13 +1,16 @@
 # -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
+# Name: David T. Clark
+# Date: July 16, 2022
+# File: PyPoll Starter Code file modyfied with my solutions.
 
-# Add our dependencies.
+# Add dependencies.
 import csv
 import os
 
-# Add a variable to load a file from a path.
+#### Declare and initialize variables.
+
+# Add variabled used to read the data file and write the analysis results to.
 file_to_load = os.path.join(".", "Resources", "election_results.csv")
-# Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 # Initialize a total vote counter.
@@ -29,7 +32,8 @@ winning_percentage = 0
 # 2: Track the largest county and county voter turnout.
 highest_county = ""
 highest_county_count = 0
-highest_county_percentage = 0
+ 
+#### Main Program Starts Below.
 
 # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
