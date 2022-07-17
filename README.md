@@ -7,13 +7,14 @@ Using Python, this project audits the results of a congressional election to con
 
 ### Audit Results
 
-Before reviewing each of the election outcomes, below is the end result of the analysis provided to the election commission.
+Before reviewing each of the election outcomes, provided below is the analysis provided to the election commission.
 
 ![Election Audit Results](/Resources/Election_Analysis.png)
 
 * Total Votes Cast: 369,711
 
-* The congressional district for this election includes the three counties shown below with their turnout statistics.
+* The congressional district for this election includes the three counties shown below with their turnout statistics. 
+  * By a large margin, most of the votes were cast in Denver County.
 
 	| County    | Ballots Cast | Percent of Total |
 	| --------- | ------------ | ---------------- |
@@ -22,21 +23,13 @@ Before reviewing each of the election outcomes, below is the end result of the a
 	| Arapahoe  | 24,801       | 6.7%             |
 
 * Three candidates received votes in the election.
+  * Diana DeGette won the election in somewhat of a landslide winning 272,892 votes or 73.8% of the total votes cast.
 
 	| Candidate               | Votes        | Percent of Total |
 	| ----------------------- | ------------ | ---------------- |
 	| Charles Casper Stockham | 85,213       | 23.0%            |
 	| Diana DeGette           | 272,892      | 73.8%            |
 	| Raymon Anthony Doane    | 11,606       | 3.1%             |
-
-* Diana DeGette won the election by receiving 272,892 votes which represents 73.8% of votes cast.
-
-
-### Candidates & Election Winner
-
-### Total Votes & Voter Turnout
-
-
 
 ## Election Audit Summary
 
