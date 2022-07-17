@@ -21,15 +21,13 @@ Before reviewing each of the election outcomes, below is the end result of the a
 	| Denver    | 306,055      | 82.8%            |
 	| Arapahoe  | 24,801       | 6.7%             |
 
-
-	* Jefferson: 38,855 ballots were cast
-	* Denver: 306,055 ballots were cast
-	* Arapahoe: 24,801 ballots were cast
-
 * Three candidates received votes in the election.
-	* Charles Casper Stockham
-	* Diana DeGette
-	* Raymon Anthony Doane
+
+	| Candidate               | Votes        | Percent of Total |
+	| ----------------------- | ------------ | ---------------- |
+	| Charles Casper Stockham | 85,213       | 23.0%            |
+	| Diana DeGette           | 272,892      | 73.8%            |
+	| Raymon Anthony Doane    | 11,606       | 3.1%             |
 
 * Diana DeGette won the election by receiving 272,892 votes which represents 73.8% of votes cast.
 
