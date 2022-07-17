@@ -11,7 +11,7 @@ import os
 
 # Add variabled used to read the data file and write the analysis results to.
 file_to_load = os.path.join(".", "Resources", "election_results.csv")
-file_to_save = os.path.join("analysis", "election_analysis.txt")
+file_to_save = os.path.join("analysis", "election_results.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
